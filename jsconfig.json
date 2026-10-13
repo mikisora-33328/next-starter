@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
+    "Key": "",
     "paths": {
       "@/components/*": ["components/*"],
       "@/lib/*": ["lib/*"],
